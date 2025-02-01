@@ -1,43 +1,5 @@
-import Image from "next/image";
-import React from 'react';
-
-// export default function Home() {
-//   return (
-//     <div>
-      
-//     </div>
-//   );
-// }
-
-// Home.jsx
-
-// import React from "react";
-// import Header from "//components/layout/Header";
-// import Footer from "//components/layout/Footer";
-// import Hero from "//components/Hero";
-// import Categories from "//components/Hero";
-
-// const Home = () => {
-//   return (
-//     <div>
-//       {/* Header Component */}
-//       <Header />
-
-//       {/* Hero Section */}
-//       <Hero />
-
-//       {/* Categories Section */}
-//       <Categories />
-
-//       {/* Footer Component */}
-//       <Footer />
-//     </div>
-//   );
-// };
-
-// export default Home;
-
-
+'use client';
+import Image from 'next/image';
 
 function BlogSection() {
   const blogs = [
